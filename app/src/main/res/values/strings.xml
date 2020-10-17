@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Apply clipping to Canvas objects</string>
+
+    <string name="clipping">Clipping</string>
+
+    <string name="translated">Translated Text</string>
+    <string name="skewed">Skewed and </string>
+
+    <string name="translated1">\n KLMNOPQRSTUVWXYZ</string>
+    <string name="skewed1">ABCDEFGHIJ </string>
+
+    <string name="original">Original Clipping</string>
+</resources>
